@@ -1,4 +1,6 @@
 # Authentication-Using-Laravel-Socialite
+Installation Guide
+
 create project laravel dengan composer create-project laravel/laravel auth-> nama project
 
 create database di phpmyadmin dan ganti DB_DATABASE sesuai dengan nama database yang sudah dibuat
