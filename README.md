@@ -1,5 +1,5 @@
 # Authentication-Using-Laravel-Socialite
-create project laravel dengan composer create-project laravel/laravel auth-> nama project
+# create project laravel dengan composer create-project laravel/laravel auth-> nama project
 create database di phpmyadmin dan ganti DB_DATABASE sesuai dengan nama database yang sudah dibuat
 composer require laravel/ui
 php artisan ui bootstrap --auth
