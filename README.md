@@ -11,6 +11,8 @@ php artisan ui bootstrap --auth
 
 npm install $& npm run dev
 
+composer require laravel/socialite
+
 add button "Sign in using Google" and "Sign in using Github"
 
 setting config/services.php
